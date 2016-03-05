@@ -1,0 +1,27 @@
+<config>
+	<variables>
+		<variable name="screenWidth">640</variable>
+		<variable name="screenHeight">320</variable>
+		<variable name="screenPixelOffColor">0x0</variable>
+		<variable name="screenPixelOnColor">0x00ff00</variable>
+		<variable name="fps">50</variable>
+	</variables>
+	<keysmapper>
+		<key value="0">48</key>
+		<key value="1">49</key>
+		<key value="2">50</key>
+		<key value="3">51</key>
+		<key value="4">52</key>
+		<key value="5">53</key>
+		<key value="6">54</key>
+		<key value="7">55</key>
+		<key value="8">56</key>
+		<key value="9">57</key>
+		<key value="a">97</key>
+		<key value="b">98</key>
+		<key value="c">99</key>
+		<key value="d">100</key>
+		<key value="e">101</key>
+		<key value="f">102</key>
+	</keysmapper>
+</config>
